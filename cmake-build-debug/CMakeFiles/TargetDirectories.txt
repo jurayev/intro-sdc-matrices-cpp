@@ -1,0 +1,8 @@
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/CMakeFiles/matrix_src.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/CMakeFiles/matrix_tests.dir

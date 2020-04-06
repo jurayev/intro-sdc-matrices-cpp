@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="intro_sdc_matrices_cpp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\tests\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrix_src">
+				<Option output="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/libmatrix_src.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 matrix_src"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrix_src/fast">
+				<Option output="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/libmatrix_src.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 matrix_src/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrix_tests">
+				<Option output="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/matrix_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 matrix_tests"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrix_tests/fast">
+				<Option output="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/matrix_tests" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 matrix_tests/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/cmake-build-debug/tests/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/matrix.cpp">
+			<Option target="matrix_src"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/matrix.hpp">
+			<Option target="matrix_src"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/tests/main_tests.cpp">
+			<Option target="matrix_tests"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/tests/matrix_addition_tests.cpp">
+			<Option target="matrix_tests"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/tests/matrix_init_tests.cpp">
+			<Option target="matrix_tests"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/tests/matrix_transpose_tests.cpp">
+			<Option target="matrix_tests"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/tests/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\tests\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

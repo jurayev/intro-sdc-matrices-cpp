@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/matrix.cpp
+matrix.hpp
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/matrix.hpp
+
+/Users/jurayevy/self-driving-car/intro_sdc_matrices_cpp/intro_sdc_matrices_cpp/src/matrix.hpp
+vector
+-
+iostream
+-
+stdexcept
+-
+vector
+-
+
