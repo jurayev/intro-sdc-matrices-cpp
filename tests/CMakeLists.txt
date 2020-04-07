@@ -1,3 +1,9 @@
-add_executable(matrix_tests main_tests.cpp matrix_init_tests.cpp matrix_addition_tests.cpp matrix_transpose_tests.cpp)
+add_executable(
+        matrix_tests
+        main_tests.cpp
+        matrix_init_tests.cpp
+        matrix_addition_tests.cpp
+        matrix_transpose_tests.cpp
+)
 
 target_link_libraries(matrix_tests matrix_src)
