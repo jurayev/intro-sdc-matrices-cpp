@@ -24,6 +24,9 @@ TEST_CASE("When adding 2 matrices --> a product matrix is created") {
 		// Act
 		Matrix product_matrix = matrix_a.matrix_addition(matrix_b);
 		// Assert
+		CAPTURE(product_matrix.getGrid());
+		CAPTURE(expected_matrix.getGrid());
+
 		REQUIRE((product_matrix == expected_matrix));
 	}
 	
@@ -47,6 +50,9 @@ TEST_CASE("When adding 2 matrices --> a product matrix is created") {
 		// Act
 		Matrix product_matrix = matrix_a.matrix_addition(matrix_b);
 		// Assert
+		CAPTURE(product_matrix.getGrid());
+		CAPTURE(expected_matrix.getGrid());
+
 		REQUIRE((product_matrix == expected_matrix));
 	}
 	
@@ -89,6 +95,3 @@ TEST_CASE("When adding matrices the size is not the same --> throw invalid_argum
 		REQUIRE_THROWS_WITH(matrix_a.matrix_addition(matrix_b), "matrices are not the same size");
   	}
 }
-
-//TODO: matrix_transpose()
-//TODO: matrix_print()
