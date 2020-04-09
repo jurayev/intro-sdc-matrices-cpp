@@ -4,7 +4,8 @@ Small matrix class implementation using C++
 ## Features:
 * C++ 14
 * `cmake` project builder
-* fully covered with unit tests by `Catch2` framework
+* Fully covered with unit tests by `Catch2` framework
+* Free for clone / fork and play around
 
 ## Getting Started (MacOS / Unix)
 1. Clone repository
