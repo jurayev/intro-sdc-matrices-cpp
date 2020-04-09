@@ -3,8 +3,8 @@ Small matrix class implementation using C++
 
 ## Features:
 * C++ 14
-* cmake project builder
-* fully covered with unit tests by Catch2 framework
+* `cmake` project builder
+* fully covered with unit tests by `Catch2` framework
 
 ## Getting Started (MacOS / Unix)
 1. Clone repository
@@ -24,9 +24,9 @@ $ make
 ```
 4. Run matrix main
 ```
-$ src/matrix_main
+$ src/run_matrix_main
 ```
 5. Run matrix unit tests
 ```
-$ tests/matrix_tests
+$ tests/run_matrix_tests
 ``` 
