@@ -10,7 +10,7 @@ Small matrix class implementation using C++
 ## Getting Started (MacOS / Unix)
 1. Clone repository
 ```
-$ git clone https://github.com/jurayev/intro_sdc_matrices_cpp
+$ git clone https://github.com/jurayev/intro-sdc-matrices-cpp
 ```
 2. Navigate to project directory
 ```
