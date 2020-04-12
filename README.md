@@ -14,7 +14,7 @@ $ git clone https://github.com/jurayev/intro-sdc-matrices-cpp
 ```
 2. Navigate to project directory
 ```
-$ cd intro_sdc_matrices_cpp
+$ cd intro-sdc-matrices-cpp
 ```
 3. Build cmake project
 ```
